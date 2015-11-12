@@ -10,7 +10,7 @@ parent="smn_workw_swarm"
 
 # Docker Swarm
 
-Docker Swarm is native clustering for Docker. It allows you create and access to
+Docker Swarm is native clustering for Docker. It allows you to create and access 
 a pool of Docker hosts using the full suite of Docker tools. Because Docker
 Swarm serves the standard Docker API, any tool that already communicates with a
 Docker daemon can use Swarm to transparently scale to multiple hosts. Supported
